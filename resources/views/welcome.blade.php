@@ -5,13 +5,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-
+        <link rel="icon" type="image/png" href="/favicon-32x32.png"/>
+        <link rel="icon" type="image/png" href="/favicon-16x16.png"/>
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
         @vite(['resources/css/app.css', 'resources/sass/main.sass', 'resources/js/app.js'])
     </head>
     <body class="antialiased">
-test
+
+        laravel shop test
+
     </body>
 </html>
